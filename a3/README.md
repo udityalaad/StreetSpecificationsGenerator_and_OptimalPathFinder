@@ -1,4 +1,4 @@
-- ********** Build, Automated-testing, Run **********
+# Build, Automated-testing, Run
 cd <path>/project
 mkdir build
 cd build
@@ -11,10 +11,7 @@ python3 ../../../test_ece650-a1.py
 ../../tests_ece650-a2
 ./ece650-a3
 
-
-
-
-- ********** Useful Examples **********
+# Useful Examples
 ./ece650-a3 -s 5 -n 4 -l 5
 ./ece650-a3 -s 5 -n 8 -l 5
 ./ece650-a3 -s 5 -n 11 -l 5 -c 2
