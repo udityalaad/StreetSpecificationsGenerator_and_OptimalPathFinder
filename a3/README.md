@@ -1,16 +1,22 @@
-# ECE650 : Assignment 3
+- ********** Build, Automated-testing, Run **********
+cd <path>/project
+mkdir build
+cd build
+cmake ../
+make install
+cd run/bin
+../../tests_rgen
+python3 ../../../test_ece650-a1.py
+../../tests_ece650-a3
+../../tests_ece650-a2
+./ece650-a3
 
-Replace FIRST_NAME, LAST_NAME, WATIAM, and STUDENT_ID, EMAIL in
-`user.yml` by your first and last name, WatIAM id, student number, and
-email, respectively. Whenever possible, please use ASCII characters.
 
-Do not change the format `user.yml`. We will parse it
-automatically. Only enter the information requested.
 
-The main file for your solution to the assignment should be
-`ece650-a3.cpp`. You can use `test.cpp` for your unit tests.
 
-You might need to modify `CMakeLists.txt` if you are adding additional
-source files for your code and/or tests.
-
-Commit your changes and submit on GitLab.
+- ********** Useful Examples **********
+./ece650-a3 -s 5 -n 4 -l 5
+./ece650-a3 -s 5 -n 8 -l 5
+./ece650-a3 -s 5 -n 11 -l 5 -c 2
+./ece650-a3 -s 5 -n 4 -l 5 -c 1
+./ece650-a3
