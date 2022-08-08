@@ -44,11 +44,11 @@ https://github.com/othneildrew/Best-README-Template -->
 
   <spacer height="10" width="10"></spacer>
 
-  ##### Intent and Application
+  #### Ultimate Goal
   The project is aimed at solving a major problem associated with the installation of Security Cameras at traffic junctions. We optimize the vertex cover problem, to help the concerned authorities minimize the number of required cameras at different junctions, so as to attain maximum possible efficiency and coverage for monitoring.
 
-  ##### Note:
-  This project is used in conjunction with [Vertex-Cover-Optimizer](https://github.com/udityalaad/OptimizingVertexCoverProblem).
+    ##### Note:
+    This project is used in conjunction with [Vertex-Cover-Optimizer](https://github.com/udityalaad/OptimizingVertexCoverProblem) to solve the utlimate problem (described above).
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
