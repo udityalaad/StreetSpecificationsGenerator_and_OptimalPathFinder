@@ -47,15 +47,15 @@ https://github.com/othneildrew/Best-README-Template -->
   #### Ultimate Goal
   The project is aimed at solving a major problem associated with the installation of Security Cameras at traffic junctions. We optimize the vertex cover problem, to help the concerned authorities minimize the number of required cameras at different junctions, so as to attain maximum possible efficiency and coverage for monitoring.
 
-    ##### Note:
-    This project is used in conjunction with [Vertex-Cover-Optimizer](https://github.com/udityalaad/OptimizingVertexCoverProblem) to solve the utlimate problem (described above).
+   <b>Note:</b>
+   This project is used in conjunction with [Vertex-Cover-Optimizer](https://github.com/udityalaad/OptimizingVertexCoverProblem) to solve the utlimate problem (described above).
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ## Built With
-  &nbsp; &nbsp; &nbsp;  <img src="Read_Me_Content/Tech/Python.JPG" alt="Python" width="90"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/cpp.JPG" alt="C++" width="95"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/cmake.png" alt="Tatsu" width="155"> &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Ubuntu.png" alt="Tatsu" width="90">
+  &nbsp; &nbsp; &nbsp;  <img src="Read_Me_Content/Tech/Python.JPG" alt="Python" width="90"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/cpp.JPG" alt="C++" width="95"> &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/cmake.png" alt="Tatsu" width="155"> &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Ubuntu.png" alt="Tatsu" width="90">
 
   &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; <b><i> Python </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> C++ </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> CMake </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Linux </i></b>
 
@@ -98,6 +98,7 @@ https://github.com/othneildrew/Best-README-Template -->
   * ##### Run
       The input needs to be provided in the following format
       ```
+        cd run/bin
         ./ece650-a3 -s ks -n kn -l kl -c kc
       ```
       
@@ -106,6 +107,7 @@ https://github.com/othneildrew/Best-README-Template -->
         
       * ###### Sample Run with Default configuration
         ```
+          cd run/bin
           ./ece650-a3
         ```
 
@@ -128,8 +130,8 @@ https://github.com/othneildrew/Best-README-Template -->
 
 <!-- LICENSE -->
 ## License or Author
-  * <b>Authored By</b> - Uditya Laad, Swapnil Baluja - University of Waterloo
-  * <b>Initial Encoding</b> - &nbsp; Provided by Prof. Arie Gurfinkel, University of Waterloo, Waterloo, ON, CA
+  * <b>Authored By</b> - &nbsp; Uditya Laad - University of Waterloo
+  * <b>Supported By</b> - &nbsp; Prof. Arie Gurfinkel, University of Waterloo, Waterloo, ON, CA
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +144,7 @@ https://github.com/othneildrew/Best-README-Template -->
   
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; udityalaad123@gmail.com
 
-  <b>Project Link</b> &nbsp; [https://github.com/udityalaad/OptimizingVertexCoverProblem](https://github.com/udityalaad/OptimizingVertexCoverProblem)
+  <b>Project Link</b> &nbsp; [https://github.com/udityalaad/StreetSpecificationsGenerator_and_OptimalPathFinder](https://github.com/udityalaad/StreetSpecificationsGenerator_and_OptimalPathFinder)
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,11 +152,9 @@ https://github.com/othneildrew/Best-README-Template -->
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-  * Author, Prof. Arie Gurfinkel., University of Waterloo, Waterloo: ECE 650 Project - uw-ece650-1221-prj.pdf (2022)
-  * Author, Prof. Arie Gurfinkel., University of Waterloo, Waterloo: ECE 650 Assignment 4 - uw-ece650-1221-a4.pdf (2022)
-  * Owner, Prof. Arie Gurfinkel., University of Waterloo: graphGen
-  * [GNU Plot Home Page](http://gnuplot.sourceforge.net.)
-  * [Minisat Home Page](http://minisat.se/.)
-  * [Vertex Cover, Wikipedia](https://en.wikipedia.org/wiki/Vertex_cover)
+  * Author, Prof. Arie Gurfinkel., University of Waterloo, Waterloo: ECE 650 Assignment 1 - uw-ece650-1221-a1.pdf (2022)
+  * Author, Prof. Arie Gurfinkel., University of Waterloo, Waterloo: ECE 650 Assignment 2 - uw-ece650-1221-a2.pdf (2022)
+  * Author, Prof. Arie Gurfinkel., University of Waterloo, Waterloo: ECE 650 Assignment 3 - uw-ece650-1221-a3.pdf (2022)
+  * [github.com/othneildrew/Best-README-Template/](https://github.com/othneildrew/Best-README-Template)
   
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
