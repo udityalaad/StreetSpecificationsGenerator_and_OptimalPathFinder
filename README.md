@@ -39,7 +39,7 @@ https://github.com/othneildrew/Best-README-Template -->
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-  * We have developed a street generation engine to create valid specifications in less than 10 unsuccessful attempts, which are later converted to graphs.
+  * We have developed a street-spec generation engine to create valid specifications in less than 10 unsuccessful attempts, which are later converted to graphs.
   * To bring the implemenatation to life, we dynamically generate trails for specifications & facilitate communication between processes using multiprogramming.
 
   <spacer height="10" width="10"></spacer>
