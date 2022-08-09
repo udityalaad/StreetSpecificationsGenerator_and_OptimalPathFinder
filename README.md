@@ -14,7 +14,7 @@ https://github.com/othneildrew/Best-README-Template -->
   .
 
   <p align="center">
-    An optimized encoding to solve vertex-cover problem !
+    A tool to generate feasible street specification, convert it to a legit form and find optimal paths between different end-points  !
   </p>
 </div>
 
