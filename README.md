@@ -82,7 +82,6 @@ https://github.com/othneildrew/Best-README-Template -->
   * We use the above implementation in conjunction with [Vertex-Cover-Optimizer](https://github.com/udityalaad/OptimizingVertexCoverProblem); to provide the final solution for the problem statement (as a package).
 
   * ##### Build Commands
-        cd /project
         mkdir build
         cd build
         cmake ../
