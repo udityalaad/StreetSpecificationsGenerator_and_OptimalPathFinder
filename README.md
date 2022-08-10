@@ -103,7 +103,7 @@ https://github.com/othneildrew/Best-README-Template -->
       
       where:
       
-        <img src="Read_Me_Content/program/params.JPG" alt="Parameters"> <b>[3]</b>
+       <img src="Read_Me_Content/program/params.JPG" alt="Parameters"> <b>[3]</b>
       
       * ###### Sample Run with Default configuration
         ```
